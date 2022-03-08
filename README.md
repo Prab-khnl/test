@@ -17,5 +17,10 @@ git status.
 
 code .
 
-git commit -m "Edit README.md and hellow_World.txt" to commit all at once.
+git commit -m "Edit README.md and hellow_World.txt" to commit all at
+once.
+
+git log
+
+git push
 
